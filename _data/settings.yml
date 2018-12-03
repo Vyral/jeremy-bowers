@@ -1,10 +1,12 @@
 audit_header: false
 title: Philadelphia Real Estate Video Blog with Jeremy Bowers
 description: Jeremy Bowers, a top Real Estate Agent in Philadelphia, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: /testimonials/
+  - title: About KW Agents
+    url: /about-kw-agents/
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: 10 Step Marketing Plan
