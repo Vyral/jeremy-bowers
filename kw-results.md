@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About KW Agents
-permalink: /about-kw-agents/
+title: KW Results
+permalink: /kw-results/
 ---
