@@ -5,8 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /testimonials/
-  - title: About KW Agents
-    url: /about-kw-agents/
+  - title: KW Results
+    url: /kw-results/
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: 10 Step Marketing Plan
