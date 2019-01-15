@@ -3,10 +3,18 @@ title: Philadelphia Real Estate Video Blog with Jeremy Bowers
 description: Jeremy Bowers, a top Real Estate Agent in Philadelphia, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
-  - title: Testimonials
-    url: /testimonials/
   - title: KW Results
     url: /kw-results/
+  - title: Training
+    url: /training/
+  - title: Culture
+    url: /culture/
+  - title: Office Tours
+    url: /office-tours/
+  - title: Freebies
+    url: /freebies/
+  - title: Upcoming Events
+    url: /events/
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: 10 Step Marketing Plan
@@ -14,7 +22,7 @@ custom_links_new_tab:
 
 client:
   name: Jeremy Bowers
-  title:
+  title: Team Leader/CEO
   license_number:
   about_markdown: |
     We understand that buying or selling a home is more than just a transaction: it’s a life-changing experience. That’s why our team of highly-seasoned real estate professionals is dedicated to providing exceptional, personalized service for all of our clients. We take great pride in the relationships we build and always work relentlessly on the client’s behalf to help them achieve their real estate goals.
@@ -26,10 +34,10 @@ client:
   address:  728 South Broad Street Fl 3<br>Philadelphia PA 19146
   phone: 215-607-6007
   phone_type: Office
-  phone2: 484-243-0971
+  phone2: 215-370-9107
   phone2_type: Cell
   email: jeremycbowers@kw.com
-  url: http://PhillyRealEstateCoach.com
+  url: http://PhillyKW.com
 
 # CTAs:
 #   first_CTA_text: Home Valuation
