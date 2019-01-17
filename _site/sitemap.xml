@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/the-benefits-of-owning-your-business.html</loc>
+<lastmod>2019-01-15T15:42:45-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -52,6 +48,30 @@
 </url>
 <url>
 <loc>http://localhost:4000/training/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/img/24topics.pdf</loc>
+<lastmod>2019-01-17T13:47:23-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/img/beliefs.pdf</loc>
+<lastmod>2019-01-17T12:54:49-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/img/earn100.pdf</loc>
+<lastmod>2019-01-17T13:38:53-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/img/marketshare.pdf</loc>
+<lastmod>2019-01-17T13:34:59-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/img/mission.pdf</loc>
+<lastmod>2019-01-17T12:56:36-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/img/why-kw.pdf</loc>
+<lastmod>2019-01-17T13:41:06-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/uploads/marketing-steps.pdf</loc>
