@@ -5,7 +5,7 @@ permalink: /training/
 ---
 <h3 class="center">KW Philly Monthly Calendar</h3>
 <p class="center">Click to Zoom</p>
-<a href="/img/calendar.jpg" target="_blank"><img src="/img/calendar.jpg" class="three-quarter-image"></a>
+<a href="/img/calendar.jpg" target="_blank"><img src="/img/calendar.jpg" class="post-image"></a>
 
 <hr>
 
