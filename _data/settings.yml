@@ -56,10 +56,10 @@ client:
   url: 'http://PhillyKW.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: 10 Step Marketing Plan
+    CTA_title: Free Strategy Call
     CTA_text: Get step by step guidance to help you sell more homes in less time.
-    CTA_link_text: Download Now
-    CTA_url: 'https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/marketing-steps.pdf'
+    CTA_link_text: Schedule a Free Consultation
+    CTA_url: 'https://calendly.com/jeremybowers/call-with-jeremy-bowers/01-10-2019'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -74,7 +74,6 @@ lender:
   url:
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/thejeremybowers'
   facebook_url: 'https://www.facebook.com/jeremybowerscoaching/'
   linkedin_url: 'https://www.linkedin.com/in/jeremybowers1/'
   youtube_url: 'https://www.youtube.com/channel/UCLxIbqfz7mhxwPWENY3O0KQ'
