@@ -1325,7 +1325,7 @@ html[xmlns] .flexslider .slides {
   min-height: 52px;
   background: #ffffff;
   width: 100%;
-  overflow: hidden; }
+  overflow: visible; }
 
 .navbar-andross .navbar-brand {
   color: #c51f22;
@@ -1347,8 +1347,7 @@ html[xmlns] .flexslider .slides {
   background: transparent;
   color: black;
   text-transform: capitalize;
-  font-size: 18px;
-  font-weight: 300; }
+  font-size: 18px; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
     color: #99181a; }
@@ -1392,6 +1391,59 @@ html[xmlns] .flexslider .slides {
   max-width: 50px;
   margin: 5px; }
 
+.dropbtn {
+  background-color: transparent;
+  color: black;
+  border: none;
+  padding: 15px 12px; }
+  .dropbtn:hover {
+    color: #fff; }
+  .dropbtn:active {
+    color: #fff; }
+  .dropbtn:focus {
+    color: #fff; }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding-top: 12px; }
+  .dropdown a:hover {
+    color: #fff; }
+  .dropdown a:active {
+    color: #fff; }
+  .dropdown a:focus {
+    color: #fff; }
+  .dropdown a:focus-within {
+    color: #fff; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 225px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1; }
+  .dropdown-content a:hover {
+    color: #c51f22; }
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block; }
+
+.dropdown-content a:hover {
+  background-color: #ddd; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+.dropdown:hover .dropbtn {
+  background-color: #c51f22; }
+
+@media (max-width: 1121px) {
+  .nav-logo {
+    display: none; } }
 @media (max-width: 760px) {
   .nav-logo {
     display: none; }
@@ -1409,7 +1461,7 @@ html[xmlns] .flexslider .slides {
 
   .navbar-header a.navbar-brand {
     width: 0;
-    overflow: hidden;
+    overflow: visible;
     display: none;
     opacity: 0; } }
 .navbar-andross-bottom {
@@ -1485,12 +1537,12 @@ label.tree-toggle {
   width: 90%;
   max-width: 40rem;
   padding-bottom: 4rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px #000000;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -1944,7 +1996,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px black; }
+  text-shadow: 0px 2px 7px #000000; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1958,7 +2010,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px #000000;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1969,7 +2021,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px #000000;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2535,7 +2587,7 @@ form select {
   margin-top: 20px; }
 
 .cta {
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   color: #123456;
   text-transform: capitalize;
   font-size: 2rem;
@@ -2839,8 +2891,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000); }
 
 .page-hero-img {
   background-position: center;
@@ -2954,15 +3006,15 @@ form select {
   line-height: 70px;
   padding-top: 2rem;
   color: #fff;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000); }
 
 .hero-cta-text {
   font-weight: 300;
   font-size: 20px;
   color: #fff;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000); }
 
 .border {
   border-bottom: 5px solid #c51f22; }
@@ -3045,12 +3097,12 @@ form select {
   padding-top: 3rem;
   width: 90%;
   max-width: 60rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px #000000;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
