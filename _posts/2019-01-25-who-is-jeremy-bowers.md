@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Is Jeremy Bowers?
-date: 2019-01-24 16:49:23
+date: 2019-01-25 07:49:00
 tags:
   - Real Estate
 excerpt: Who is Jeremy Bowers? Get to know Jeremy and KW Philly
