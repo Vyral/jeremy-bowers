@@ -18,10 +18,10 @@ custom_links:
     url: /freebies/
   - title: Upcoming Events
     url: /events/
-show_custom_links_new_tab: true
-custom_links_new_tab:
-  - title: 10 Step Marketing Plan
-    url: 'https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/10+Step+Marketing+Plan.pdf'
+# show_custom_links_new_tab: false
+# custom_links_new_tab:
+#   - title: 10 Step Marketing Plan
+#     url: 'https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/10+Step+Marketing+Plan.pdf'
 client:
   name: Jeremy Bowers
   title: Team Leader/CEO
@@ -48,9 +48,9 @@ client:
   address: >-
     728 South Broad Street Fl 3<br>Philadelphia PA 19146<br><br>2401 Walnut
     Street, 6th floor<br>Philadelphia PA 19103
-  phone: 484-243-0971
+  phone: 215-607-6007
   phone_type: Office
-  phone2: 215-370-9107
+  phone2: 484-243-0971
   phone2_type: Cell
   email: jeremycbowers@kw.com
   url: 'http://PhillyKW.com'
@@ -107,6 +107,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
+  hero_logo_path2: /img/logo2.png
   logo_width_number: 40
   hero_text: 'Philadlephia’s # 1 Real Estate Training and Brokerage<br>by Jeremy Bowers'
   hero_background_hex: '#999999'
