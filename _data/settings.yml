@@ -108,8 +108,8 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   hero_logo_path2: /img/logo2.png
-  logo_width_number: 40
-  hero_text: 'Philadlephia’s # 1 Real Estate Training and Brokerage<br>by Jeremy Bowers'
+  logo_width_number: 30
+  hero_text: 'Philadlephia’s #1 Market Share<br>by Jeremy Bowers'
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
