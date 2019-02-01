@@ -18,10 +18,6 @@ custom_links:
     url: /freebies/
   - title: Upcoming Events
     url: /events/
-# show_custom_links_new_tab: false
-# custom_links_new_tab:
-#   - title: 10 Step Marketing Plan
-#     url: 'https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/10+Step+Marketing+Plan.pdf'
 client:
   name: Jeremy Bowers
   title: Team Leader/CEO
@@ -59,7 +55,7 @@ sidebar_CTA:
     CTA_title: Free Strategy Call
     CTA_text: Get step by step guidance to help you sell more homes in less time.
     CTA_link_text: Schedule a Free Consultation
-    CTA_url: 'https://calendly.com/jeremybowers/call-with-jeremy-bowers/01-10-2019'
+    CTA_url: 'https://calendly.com/jeremybowers/call-with-jeremy-bowers/'
 lender:
   show_section: false
   header_text: Preferred Lender
