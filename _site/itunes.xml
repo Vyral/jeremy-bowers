@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Philly - your professional Philadelphia Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jeremy Bowers</managingEditor>
-    <lastBuildDate>2019-01-31 09:46:46 -0600</lastBuildDate>
+    <lastBuildDate>2019-02-04 09:23:15 -0600</lastBuildDate>
     <media:copyright>Jeremy Bowers</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,37 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Philly - your professional Philadelphia Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Mike McCann Joins KW</title>
+        <link>http://localhost:4000/mike-mccann-joins-kw.html</link>
+        
+          <category>Testimonials</category>
+        
+        <author>Jeremy Bowers</author>
+        <pubDate>2019-02-01 16:35:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Over the last 31 years, there has been no team or group of real estate agents that have dominated a region throughout the country quite like the Mike McCann Team has.  The opportunity to collaborate and work alongside one of the most dynamic figures in real estate will be a tremendous asset for our brokerage, agents and the overall future at Keller Williams.
+
+We are proud to officially announce that Mike McCann “The Real Estate Man” along with Jim Onesti, Paul Chin, Bibe Chin, Stuart C Cohen, Margo Weil Sorrenti, Lauren Acker Kratz, Ame Goldman, Lynda Krevitz, Rich Fravel, Bryanna Carzo, Ed Foy, Daniel Evenchen, Melissa Gehman, Mike Goldstein, Kate McCann, Arvind Balaji, Ryan McCann, Carson Merine, Andrea Boelter, Chloe Alvarado-McCann, Melanie Mcconnell, Cyndi McCann, Karen McCormick, Beth McLean, Julie McCann, Jessica Kalup, Asa Kurland, Joyce Caldwell, will be joining the KW Philly team! We welcome you all and are excited to take our company to even higher heights!Mike earned his status as “The Real Estate Man” by utilizing his extensive knowledge and experience to consistently provide quality service for his clients, establishing a remarkably positive reputation within Philadelphia.Mike holds CRS, GRI, and Associate Broker designations. He has also served on the GPAR Board of Directors, and on the Grievance Committee of the same board. He started in real estate because he realized that “The harder you work, the more you can earn”. Mike has stayed in real estate because he loves people: meeting them, working with them, helping them reach their goals.
+
+Few people love Philadelphia more than Mike McCann. His enthusiasm for the city and its residents is contagious! Some accolades:In 2018, The Mike McCann Team settled 782 properties, over $367 million in real estate transactions.Mike McCann has been ranked in the top 50 agents out of 2 million agents nationwide by The Wall Street Journal for the past 12 years.The #1 REALTOR® in Philadelphia for 31 years, Mike has been awarded more Top Selling Awards by the Philadelphia Board of Realtors than anyone in its 100-year history.Mike has also been featured on CNBC Open House about Philadelphia Real Estate. He has been quoted in the Wall Street Journal, New York Times and Philadelphia Inquirer.The Mike McCann Team has been ranked #1 or #2 nationwide by Berkshire Hathaway Home Services (BHHS) for the past 17 years.Mike was extremely straightforward and sincere with his reasoning on joining the KW Philly team. ”Recently I have seen the biggest changes in the real estate market in my 30 year career. I felt it was important to align myself and my team with the most forward-thinking, visionary leader and company in the business, Gary Keller and Keller Williams.Moving to Keller Williams Philly will allow my agents to have the most state-of the art technology and training, while giving our clients the best personal service and the most aggressive marketing to get their real estate needs met quickly. I am so excited and I am sure this new energy and focus will drive The Mike McCann Team for 10, 20 years and beyond!”
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Jeremy Bowers</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Being Part Time VS. Full Time</title>
         <link>http://localhost:4000/being-part-time-vs-full-time.html</link>
@@ -82,10 +113,10 @@ The answer depends on what you want. There are plenty of benefits to joining a t
         <title>What to Look for in a Brokerage</title>
         <link>http://localhost:4000/what-to-look-for-in-a-brokerage.html</link>
         
-          <category>Real Estate</category>
+          <category>Real Estate Coaching</category>
         
         <author>Jeremy Bowers</author>
-        <pubDate>2019-01-25 09:38:13 -0600</pubDate>
+        <pubDate>2019-01-25 09:38:00 -0600</pubDate>
         <guid></guid>
         <description>
 
@@ -121,10 +152,10 @@ To learn about choosing the right brokerage for you, watch this short video.
         <title>How to Get Your Real Estate License</title>
         <link>http://localhost:4000/how-to-get-your-real-estate-license.html</link>
         
-          <category>Real Estate</category>
+          <category>Real Estate Coaching</category>
         
         <author>Jeremy Bowers</author>
-        <pubDate>2019-01-25 09:35:56 -0600</pubDate>
+        <pubDate>2019-01-25 09:35:00 -0600</pubDate>
         <guid></guid>
         <description>
 
@@ -146,7 +177,7 @@ It depends on what state you’re living or working in. The first step is going 
         <title>Who Is Jeremy Bowers?</title>
         <link>http://localhost:4000/who-is-jeremy-bowers.html</link>
         
-          <category>Real Estate</category>
+          <category>About Me</category>
         
         <author>Jeremy Bowers</author>
         <pubDate>2019-01-25 03:50:00 -0600</pubDate>
