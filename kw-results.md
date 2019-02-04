@@ -23,6 +23,10 @@ permalink: /kw-results/
 
 <br>[![](/uploads/mst.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/TotalsOfficeTotalVolume.pdf){: target="_blank"}
 
+![](/uploads/mst2.PNG)
+
+&nbsp;
+
 ---
 
 ### Earn 100 Percent
