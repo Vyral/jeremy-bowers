@@ -12,7 +12,7 @@ permalink: /events/
 Click to Zoom
 {: .center}
 
-[![](/uploads/february-2019-kw-philly-calendar.jpg){: .post-image}](/img/calendar.jpg){: target="_blank"}
+[![](/uploads/february-2019-kw-philly-calendar.jpg){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/February+2019+KW+Philly+Calendar.jpg){: target="_blank"}
 
 ---
 
