@@ -10,7 +10,7 @@ permalink: /training/
 Click to Zoom
 {: .center}
 
-[![](/img/calendar.jpg){: .post-image}](/img/calendar.jpg){: target="_blank"}
+[![](/uploads/february-2019-kw-philly-calendar.jpg){: .post-image}](/uploads/february-2019-kw-philly-calendar.jpg){: target="_blank"}
 
 ---
 
