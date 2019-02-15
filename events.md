@@ -10,11 +10,29 @@ permalink: /events/
 ---
 
 Click to Zoom
-{: .center}
+{: .center.present-before-paste}
 
 [![](/uploads/february-2019-kw-philly-calendar.jpg){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/February+2019+KW+Philly+Calendar.jpg){: target="_blank"}
+{: .present-before-paste}
 
 ---
+
+### [Career Night](https://www.eventbrite.com/e/career-night-at-kw-philly-tickets-56354471742){: target="_blank"}
+{: .center}
+
+### [Exam Preps ](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-56139624127){: target="_blank"}
+{: .center}
+
+### [IGNITE Event](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-56139755520){: target="_blank"}
+{: .center}
+
+### &nbsp;
+{: .center}
+
+### Mastermind Series
+{: .center}
+
+Held the First Friday of every month
 
 ### Regional Events
 {: .center}
