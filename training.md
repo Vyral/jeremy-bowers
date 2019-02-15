@@ -14,12 +14,16 @@ Click to Zoom
 
 ---
 
-### Training Options
+## Training Options
 {: .center}
 
-**KW Bold** -&nbsp;[https://mapscoaching.com/coaching-programs/bold/](https://mapscoaching.com/coaching-programs/bold/){: target="_blank"}
+&nbsp;
 
-**IGNITE**: [Upcoming Events](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-54972517279){: target="_blank"}
+### **KW Bold** -&nbsp;[https://mapscoaching.com/coaching-programs/bold/](https://mapscoaching.com/coaching-programs/bold/){: target="_blank"}
+
+&nbsp;
+
+### **IGNITE**: [Upcoming Events](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-54972517279){: target="_blank"}
 
 ---
 
