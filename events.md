@@ -7,6 +7,8 @@ permalink: /events/
 # Upcoming Events
 {: .center}
 
+## [Click here to access all of our upcoming events!](www.superbowers.com){: target="_blank"}
+
 ---
 
 Click to Zoom
