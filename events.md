@@ -29,10 +29,12 @@ Click to Zoom
 ### &nbsp;
 {: .center}
 
-### Mastermind Series
+### Mastermind Series-
 {: .center}
 
-Held the First Friday of every month
+### Held the First Friday of every month
+
+&nbsp;
 
 ### Regional Events
 {: .center}
