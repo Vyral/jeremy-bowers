@@ -18,6 +18,8 @@ custom_links:
     url: /freebies/
   - title: Upcoming Events
     url: /events/
+  - title: Technology
+    url: https://outfront.kw.com/technology/take-command/
 client:
   name: Jeremy Bowers
   title: Team Leader/CEO
