@@ -35,6 +35,7 @@ Click to Zoom
 {: .center}
 
 ### Held the First Friday of every month
+{: .center}
 
 &nbsp;
 
