@@ -27,7 +27,7 @@ Click to Zoom
 
 ---
 
-### Real Estate Training Examples with Jeremy Bowers with KW Philly
+### Real Estate Training with Jeremy Bowers and KW Philly
 {: .center}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jRzduzaheek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
