@@ -37,8 +37,6 @@ Click to Zoom
 ### Held the First Friday of every month
 {: .center}
 
-&nbsp;
-
 ### Regional Events
 {: .center}
 
