@@ -27,7 +27,7 @@ Click to Zoom
 
 &nbsp;
 
-### **KW MAPS** -&nbsp;[https://mapscoaching.com/coaching-programs/bold/](https://mapscoaching.com/){: target="_blank"}
+### **KW MAPS** -&nbsp;[https://mapscoaching.com/](https://mapscoaching.com/){: target="_blank"}
 
 
 ---
