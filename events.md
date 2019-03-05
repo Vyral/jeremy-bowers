@@ -7,7 +7,7 @@ permalink: /events/
 # Upcoming Events
 {: .center}
 
-## [Click here to access all of our upcoming events!](www.superbowers.com){: target="_blank"}
+## [Click here to access all of our upcoming events!](https://www.eventbrite.com/o/kw-philly-18761317307?s=92016711&amp;fbclid=IwAR3YZ5oGYwEkDCBOUEqiMfALTG6129Mb-VatmSogtpCWydcSnq3W46yjJis){: target="_blank"}
 
 ---
 
