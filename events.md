@@ -14,7 +14,7 @@ permalink: /events/
 Click to Zoom
 {: .center.present-before-paste}
 
-[![](/uploads/february-2019-kw-philly-calendar.jpg){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/IMG_4785+(1).JPG){: target="_blank"}
+[![](/uploads/IMG_4785 (1).JPG){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/IMG_4785+(1).JPG){: target="_blank"}
 {: .present-before-paste}
 
 ---
