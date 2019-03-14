@@ -9,13 +9,11 @@ permalink: /events/
 
 ## [Click here to access all of our upcoming events!](https://www.eventbrite.com/o/kw-philly-18761317307?s=92016711&amp;fbclid=IwAR3YZ5oGYwEkDCBOUEqiMfALTG6129Mb-VatmSogtpCWydcSnq3W46yjJis){: target="_blank"}
 
----
-
-Click to Zoom
+&nbsp;
 {: .center.present-before-paste}
 
-[![](/uploads/february-2019-kw-philly-calendar.jpg){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/IMG_4785+(1).JPG){: target="_blank"}
-{: .present-before-paste}
+[![](/uploads/img-4785-1.JPG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/IMG_4785+(1).JPG){: target="_blank"}
+{: .center.present-before-paste}
 
 ---
 
