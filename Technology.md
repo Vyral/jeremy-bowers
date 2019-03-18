@@ -6,7 +6,7 @@ permalink: /Technology/
 
 # KW Technology
 
-# ![](/uploads/capture-2.PNG)[![](/uploads/command.PNG)](https://outfront.kw.com/technology/take-command/){: target="_blank"}
+
 
 &nbsp;
 
