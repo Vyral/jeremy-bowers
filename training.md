@@ -7,10 +7,8 @@ permalink: /training/
 ### KW Philly Monthly Calendar
 {: .center}
 
-Click to Zoom
+![](/img/IMG_4785 &#40;1&#41;.JPG)
 {: .center}
-
-[![](/uploads/february-2019-kw-philly-calendar.jpg){: .post-image}](/uploads/february-2019-kw-philly-calendar.jpg){: target="_blank"}
 
 ---
 
@@ -28,7 +26,6 @@ Click to Zoom
 &nbsp;
 
 ### **KW MAPS**: &nbsp;[https://mapscoaching.com/](https://mapscoaching.com/){: target="_blank"}
-
 
 ---
 
