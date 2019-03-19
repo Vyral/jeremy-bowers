@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technology
-permalink: /Technology/
+permalink: /technology/
 ---
 
 # KW Technology
