@@ -8,6 +8,7 @@ permalink: /events/
 {: .center}
 
 ## [Click here to access all of our upcoming events!](https://www.eventbrite.com/o/kw-philly-18761317307?s=92016711&amp;fbclid=IwAR3YZ5oGYwEkDCBOUEqiMfALTG6129Mb-VatmSogtpCWydcSnq3W46yjJis){: target="_blank"}
+{: .center}
 
 [![](/uploads/calendarapril1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
 {: .center.present-before-paste}
