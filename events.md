@@ -9,18 +9,18 @@ permalink: /events/
 
 ## [Click here to access all of our upcoming events!](https://www.eventbrite.com/o/kw-philly-18761317307?s=92016711&amp;fbclid=IwAR3YZ5oGYwEkDCBOUEqiMfALTG6129Mb-VatmSogtpCWydcSnq3W46yjJis){: target="_blank"}
 
-[![](/uploads/img-4785-1.JPG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/IMG_4785+(1).JPG){: target="_blank"}
+[![](/uploads/img-4785-1.JPG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
 {: .center.present-before-paste}
 
 ---
 
-### [Career Night](https://www.eventbrite.com/e/career-night-at-kw-philly-tickets-56354471742){: target="_blank"}
+### [Career Night](https://www.eventbrite.com/e/career-night-at-kw-philly-tickets-59552264426){: target="_blank"}
 {: .center}
 
 ### [Exam Preps ](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-56139624127){: target="_blank"}
 {: .center}
 
-### [IGNITE Event](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-56139755520){: target="_blank"}
+### [IGNITE Event](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-59552340654){: target="_blank"}
 {: .center}
 
 ### &nbsp;
