@@ -7,10 +7,8 @@ permalink: /training/
 ### KW Philly Monthly Calendar
 {: .center}
 
-![](/img/IMG_4785 &#40;1&#41;.JPG)
+![](/uploads/calendar1.PNG)
 {: .center}
-
----
 
 ## Training Options
 {: .center}
