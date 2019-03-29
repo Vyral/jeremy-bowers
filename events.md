@@ -9,10 +9,8 @@ permalink: /events/
 
 ## [Click here to access all of our upcoming events!](https://www.eventbrite.com/o/kw-philly-18761317307?s=92016711&amp;fbclid=IwAR3YZ5oGYwEkDCBOUEqiMfALTG6129Mb-VatmSogtpCWydcSnq3W46yjJis){: target="_blank"}
 
-[![](/uploads/img-4785-1.JPG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
+[![](/uploads/img-4785-1.JPG)![](/uploads/calendar1-1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
 {: .center.present-before-paste}
-
----
 
 ### [Career Night](https://www.eventbrite.com/e/career-night-at-kw-philly-tickets-59552264426){: target="_blank"}
 {: .center}
