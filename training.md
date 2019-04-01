@@ -4,11 +4,13 @@ title: Training
 permalink: /training/
 ---
 
-[![](/uploads/calendarapril1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
-{: .center.present-before-paste}
-
 ## Training Options
 {: .center}
+
+&nbsp;
+
+[![](/uploads/calendarapril1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
+{: .center.present-before-paste}
 
 &nbsp;
 
