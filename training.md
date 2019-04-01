@@ -7,22 +7,20 @@ permalink: /training/
 ## Training Options
 {: .center}
 
-&nbsp;
-
 [![](/uploads/calendarapril1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
-{: .center.present-before-paste}
-
-&nbsp;
+{: .center}
 
 ### **KW Bold**: &nbsp;[https://mapscoaching.com/coaching-programs/bold/](https://mapscoaching.com/coaching-programs/bold/){: target="_blank"}
 
-&nbsp;
+BOLD conditions agents with powerful mindset exercises, language techniques, and lead generation activities.
 
 ### **IGNITE**: [Upcoming Events](https://igniteintensivetraining.eventbrite.com){: target="_blank"}
 
-&nbsp;
+Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
 
 ### **KW MAPS**: &nbsp;[https://mapscoaching.com/](https://mapscoaching.com/){: target="_blank"}
+
+Coaches guide you to&nbsp;**focus on solutions**, gain awareness of your unique strengths, and identify areas for development so that blind spots, gaps in skills or bad habits do not get in your way of&nbsp;**success**.
 
 ---
 
