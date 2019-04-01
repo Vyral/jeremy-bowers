@@ -19,7 +19,7 @@ permalink: /events/
 ### [Exam Preps ](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-59552340654){: target="_blank"}
 {: .center}
 
-### [IGNITE Event](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-59559508092?aff=erelexpmlt){: target="_blank"}
+### [IGNITE Event](https://igniteintensivetraining.eventbrite.com){: target="_blank"}
 {: .center}
 
 ### &nbsp;
