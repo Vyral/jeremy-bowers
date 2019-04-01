@@ -13,7 +13,7 @@ permalink: /events/
 [![](/uploads/calendarapril1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
 {: .center}
 
-### [Career Night](https://www.eventbrite.com/e/career-night-at-kw-philly-tickets-59552264426){: target="_blank"}&nbsp;-&nbsp;
+### [Career Night](https://www.eventbrite.com/e/career-night-at-kw-philly-tickets-59552264426){: target="_blank"}&nbsp;
 {: .center}
 
 Come see what it's like to be a part of our team and experience KW Philly Culture at its finest. You will be joined by top producers in our office.
