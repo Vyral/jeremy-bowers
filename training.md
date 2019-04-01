@@ -4,11 +4,8 @@ title: Training
 permalink: /training/
 ---
 
-### KW Philly Monthly Calendar
-{: .center}
-
-![](/uploads/calendar1.PNG)
-{: .center}
+[![](/uploads/calendarapril1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
+{: .center.present-before-paste}
 
 ## Training Options
 {: .center}
@@ -19,7 +16,7 @@ permalink: /training/
 
 &nbsp;
 
-### **IGNITE**: [Upcoming Events](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-54972517279){: target="_blank"}
+### **IGNITE**: [Upcoming Events](https://igniteintensivetraining.eventbrite.com){: target="_blank"}
 
 &nbsp;
 
