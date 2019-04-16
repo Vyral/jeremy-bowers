@@ -72,6 +72,7 @@
   margin: 2rem
   padding-bottom: 2.5rem
   border-bottom: 5px solid $brand
+  height: 365px
   &:hover
     background: #fff
 
@@ -87,7 +88,6 @@
   background: #eee
   width: 100%
   border-bottom: 5px solid $brand
-  text-align:center
 
 .full-simple
   max-width: 720px
@@ -179,6 +179,14 @@
     width: 90%
   .hero-cta
     width: 75%
+  .simple-cta-container
+    height: 330px
+
+@media (max-width: 1191px)
+  .simple-cta-container
+    height: 350px
+  .secondary-cta-title
+    height: 85px
 
 @media (max-width: 1024px)
   .home-logo
@@ -193,8 +201,12 @@
     width: 99%
   .browse
     padding: 0
+  .simple-cta-container
+    height: 345px
+  .secondary-cta-title
+    height: 92px
 
-@media (max-width: 800px)
+@media (max-width: 910px)
   #hero
     // height: 33rem
   .home-logo
@@ -211,7 +223,18 @@
     margin-top: 1rem
   .browse-container
     padding-top: 0
+  .secondary-subtitle
+    height: 150px
+  .simple-cta-container
+    height: 375px
 
+@media (max-width: 767px)
+  .secondary-cta-title
+    height: 50px
+  .secondary-subtitle
+    height: 60px
+  .simple-cta-container
+    height: 500px
 
 
 @media (max-width: 600px)
@@ -222,6 +245,17 @@
     font-size: 3.5rem
   .cta
     padding: 1rem
+  .simple-cta-container
+    height: 450px
+
+@media (max-width: 500px)
+  .simple-cta-container
+    height: 400px
+
 @media (max-width: 400px)
   .cta
     padding: 0.5rem
+  .secondary-subtitle
+    height: 90px
+  .simple-cta-container
+    height: 400px
