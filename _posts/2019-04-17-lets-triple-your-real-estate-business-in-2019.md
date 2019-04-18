@@ -22,4 +22,4 @@ youtube_code: t5aQjYtY2Jw
 
 {% include youtube.html %}
 
-How do you plan on growing your business in 2019? In order for your business to grow, you need to know the numbers from last year. Once you've been aquainted with the numbers from the previous year, you'll need to set your goals. To learn more about how to triple your business in 2019, watch this short video.
+How do you plan on growing your business in 2019? In order for your business to grow, you need to know the numbers from last year. Once you've been acquainted with the numbers from the previous year, you'll need to set your goals. It's important that these goals are attainable. To learn more about how to triple your business in 2019, watch this short video.
