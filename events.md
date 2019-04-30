@@ -54,7 +54,7 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### National Events
 {: .center}
 
-##### [KW Family Reunion](https://kwrievents.kw.com/ehome/index.php?eventid=356856&amp;){: target="_blank"}
+##### [KW Family Reunion](https://familyreunion.kw.com){: target="_blank"}
 {: .center}
 
 ---
