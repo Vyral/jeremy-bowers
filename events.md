@@ -4,7 +4,7 @@ title: Upcoming Events
 permalink: /events/
 ---
 
- Upcoming Events
+Upcoming Events
 {: .center}
 
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18761317307?s=92016711&amp;fbclid=IwAR3YZ5oGYwEkDCBOUEqiMfALTG6129Mb-VatmSogtpCWydcSnq3W46yjJis){: target="_blank"}
@@ -13,23 +13,7 @@ permalink: /events/
 [![](/uploads/calendarapril1.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/calendar1.PNG){: target="_blank"}
 {: .center}
 
-##
-{: .center}
-
-### [2019 Real Estate&nbsp;](__notset__)[Education Day](https://real-estate-education-day.eventbrite.com){: target="_blank"}&nbsp;
-{: .center}
-
-Real Estate experts from different brokerages giving back and sharing their best practices.**This event will be held April 24th, 2019.**
-
-**9:00am - 10:00am: Opening Speaker**&nbsp;- Mike McCann
-
-**10:15am - 2:15pm:**&nbsp;Breakout Sessions
-
-**2:30pm - 3:30pm**\: Key Note Speaker - Bob Heilig: Social Media Expert
-
-[**To learn more about the event, click here.**](https://t.e2ma.net/click/x5zbw/x96jeeb/l070ke){: target="_blank"}
-
-###
+## \#
 {: .center}
 
 ### &nbsp;
