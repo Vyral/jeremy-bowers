@@ -8,16 +8,16 @@ permalink: /freebies/
 
 # Freebies
 
-&nbsp;
+[![](/uploads/update.PNG)](https://drexel.edu/lindyinstitute/initiatives/reports/){: target="_blank"}
 
-<a href="https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/kw+mrea+book.pdf" target="_blank"><img src="/uploads/24-topics.PNG" class="post-image">
-
-&nbsp;
-
-<a href="https://youtu.be/tQ_Nc0EmOaQ" target="_blank"><img src="/uploads/kelle.png" class="post-image">
+[![](/uploads/24-topics.PNG){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/kw+mrea+book.pdf){: target="_blank"}
 
 &nbsp;
 
-<img src="/uploads/20228524-10212583724444685-415251575519202972-n.jpg" class="post-image">
+[![](/uploads/kelle.png){: .post-image}](https://youtu.be/tQ_Nc0EmOaQ){: target="_blank"}
+
+&nbsp;
+
+![](/uploads/20228524-10212583724444685-415251575519202972-n.jpg){: .post-image}
 
 &nbsp;
