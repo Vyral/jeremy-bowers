@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Upcoming Events
+title: Events
 permalink: /events/
 ---
 <br/>
@@ -13,7 +13,7 @@ var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":15581
 Upcoming Events
 {: .center}
 
-## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18761317307?s=92016711&amp;fbclid=IwAR3YZ5oGYwEkDCBOUEqiMfALTG6129Mb-VatmSogtpCWydcSnq3W46yjJis){: target="_blank"}
+## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
 &nbsp;
