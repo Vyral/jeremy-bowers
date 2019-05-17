@@ -21,12 +21,12 @@ Upcoming Events
 ### &nbsp;
 {: .center}
 
-### [Career Night](https://www.eventbrite.com/e/career-night-at-kw-philly-tickets-59552264426){: target="_blank"}&nbsp;
+### [Career Night](https://real-estate-career-night.eventbrite.com){: target="_blank"}&nbsp;
 {: .center}
 
 Come see what it’s like to be a part of our team and experience KW Philly Culture at its finest. You will be joined by top producers in our office.
 
-### [Exam Preps ](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-59552340654){: target="_blank"}
+### [Exam Preps ](https://real-estate-exam-prep.eventbrite.com){: target="_blank"}
 {: .center}
 
 This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
@@ -35,6 +35,16 @@ This class will help you prepare to take or re-take the exam, gauge your prepare
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
+
+### [KW Philly Ping Pong](https://www.eventbrite.com/e/kw-philly-ping-pong-tournament-tickets-61046492703#){: target="_blank"}
+{: .center}
+
+Do you have skills? Come out for an evening full of networking, ping pong, and drinking at KW Philly's first Ping Pong Tournament for charity.
+
+### [Big Business: Bigger Life](https://www.eventbrite.com/e/big-business-bigger-life-tickets-61072989957){: target="_blank"}
+{: .center}
+
+In this informative session on work life counterbalance, Wendy Papasan offers tips on how to be more efficient and productive in your work and home life.
 
 ### &nbsp;
 {: .center}
