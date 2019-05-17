@@ -40,10 +40,6 @@ This class will help you prepare to take or re-take the exam, gauge your prepare
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
 
-### [KW Philly Ping Pong](https://www.eventbrite.com/e/kw-philly-ping-pong-tournament-tickets-61046492703#){: target="_blank"}
-{: .center}
-
-Do you have skills? Come out for an evening full of networking, ping pong, and drinking at KW Philly's first Ping Pong Tournament for charity.
 
 ### [Big Business: Bigger Life](https://www.eventbrite.com/e/big-business-bigger-life-tickets-61072989957){: target="_blank"}
 {: .center}
