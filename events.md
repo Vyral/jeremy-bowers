@@ -3,7 +3,8 @@ layout: default
 title: Upcoming Events
 permalink: /events/
 ---
-
+<br/>
+<br/>
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1558105843,"userId":39203611,"type":"html5"};
 </script>
