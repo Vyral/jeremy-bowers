@@ -7,7 +7,7 @@ permalink: /training/
 ## Training Options
 {: .center}
 
-&nbsp;
+![](/uploads/479644e9de4ebaec3b7bbc9d841c97da.png)
 {: .center}
 
 ### **KW Bold**\: &nbsp;[https://mapscoaching.com/coaching-programs/bold/](https://mapscoaching.com/coaching-programs/bold/){: target="_blank"}
