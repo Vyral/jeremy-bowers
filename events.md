@@ -4,7 +4,10 @@ title: Upcoming Events
 permalink: /events/
 ---
 
-<iframe src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?userId=39203611&t=1558105843" width="100%" height="100%" scrolling="no" frameborder="0" allowtransparency="true" allow="autoplay" allowfullscreen="true"></iframe>
+<script type="text/javascript">
+var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1558105843,"userId":39203611,"type":"html5"};
+</script>
+<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
 Upcoming Events
 {: .center}
