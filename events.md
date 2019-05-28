@@ -12,7 +12,6 @@ var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":15581
 
 <script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
-<iframe id="bsIframebxmaxeeap30544663329038113" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1558105843&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
 Upcoming Events
 {: .center}
