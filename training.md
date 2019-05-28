@@ -14,7 +14,7 @@ permalink: /training/
 
 BOLD conditions agents with powerful mindset exercises, language techniques, and lead generation activities.
 
-### **IGNITE**\: [Upcoming Events](https://igniteintensivetraining.eventbrite.com){: target="_blank"}
+### **IGNITE**\: [Upcoming Events](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-61437747958){: target="_blank"}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
 
