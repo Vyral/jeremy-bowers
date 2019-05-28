@@ -20,10 +20,10 @@ Upcoming Events
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-## ![](/uploads/june-2019-kw-philly-calendar.jpg){: width="2550" height="1650"}
+## [![](/uploads/june-2019-kw-philly-calendar.jpg){: width="2550" height="1650"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf)
 {: .center}
 
-### ![](/uploads/june-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}
+### [![](/uploads/june-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf)
 {: .center}
 
 ### [Career Night](https://real-estate-career-night.eventbrite.com){: target="_blank"}&nbsp;
