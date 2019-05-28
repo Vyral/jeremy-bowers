@@ -7,7 +7,7 @@ permalink: /training/
 ## Training Options
 {: .center}
 
-![](/uploads/479644e9de4ebaec3b7bbc9d841c97da.png)
+[![](/uploads/june-2019-1.PNG){: width="677" height="438"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf){: target="_blank"}
 {: .center}
 
 ### **KW Bold**\: &nbsp;[https://mapscoaching.com/coaching-programs/bold/](https://mapscoaching.com/coaching-programs/bold/){: target="_blank"}
