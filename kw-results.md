@@ -21,9 +21,9 @@ permalink: /kw-results/
 ### KW Philly Stats
 {: .center}
 
-<br>[![](/uploads/mst.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/TotalsOfficeTotalVolume.pdf){: target="_blank"}
+<br>![](/uploads/1.PNG){: width="794" height="614"}
 
-![](/uploads/mst2.PNG)
+![](/uploads/2.PNG){: width="788" height="594"}
 
 &nbsp;
 
@@ -41,4 +41,4 @@ permalink: /kw-results/
 
 [![](/img/why-kw.jpg){: .post-image}](/img/why-kw.pdf){: target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jTFDzQRzENk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTFDzQRzENk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
