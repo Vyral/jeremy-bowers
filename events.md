@@ -3,12 +3,16 @@ layout: default
 title: Events
 permalink: /events/
 ---
-<br/>
-<br/>
+
+<br><br>
+
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1558105843,"userId":39203611,"responsive":true,"type":"html5"};
 </script>
+
 <script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+
+<iframe id="bsIframebxmaxeeap5098955497080557" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1558105843&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
 Upcoming Events
 {: .center}
@@ -16,13 +20,10 @@ Upcoming Events
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-&nbsp;
+## ![](/uploads/june-2019-kw-philly-calendar.jpg){: width="2550" height="1650"}
 {: .center}
 
-## [![](/uploads/123.PNG)](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/May+2019+KW+Philly+Calendar.jpg){: target="_blank"}
-{: .center}
-
-### &nbsp;
+### ![](/uploads/june-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}
 {: .center}
 
 ### [Career Night](https://real-estate-career-night.eventbrite.com){: target="_blank"}&nbsp;
@@ -39,7 +40,6 @@ This class will help you prepare to take or re-take the exam, gauge your prepare
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
-
 
 ### [Big Business: Bigger Life](https://www.eventbrite.com/e/big-business-bigger-life-tickets-61072989957){: target="_blank"}
 {: .center}
