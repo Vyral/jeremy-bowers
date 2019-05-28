@@ -16,7 +16,9 @@ permalink: /freebies/
 
 [![](/uploads/kelle.png){: .post-image}](https://youtu.be/tQ_Nc0EmOaQ){: target="_blank"}
 
-&nbsp;
+# ![](/uploads/kw.jpg){: width="486" height="286"}
+
+# [Team Building](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/KW+Team+Building.pdf){: target="_blank"}
 
 ![](/uploads/20228524-10212583724444685-415251575519202972-n.jpg){: .post-image}
 
