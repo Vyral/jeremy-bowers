@@ -94,10 +94,6 @@
 <loc>http://localhost:4000/page2/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Marketing+Packet.pdf</loc>
-<lastmod>2019-06-04T12:34:09-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/img/24topics.pdf</loc>
 <lastmod>2019-01-17T13:47:23-06:00</lastmod>
 </url>
@@ -120,6 +116,10 @@
 <url>
 <loc>http://localhost:4000/img/why-kw.pdf</loc>
 <lastmod>2019-01-17T13:41:06-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/uploads/Marketing+Packet.pdf</loc>
+<lastmod>2019-06-04T12:34:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/uploads/marketing-steps.pdf</loc>
