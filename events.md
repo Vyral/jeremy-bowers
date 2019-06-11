@@ -10,8 +10,10 @@ permalink: /events/
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1560290362,"userId":39203611,"responsive":true,"type":"html5"};
 </script>
+
 <script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
+<iframe id="bsIframebxmaxeeap7637684105939024" style="height: 388px;" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560290362&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
 Upcoming Events
 {: .center.present-before-paste}
