@@ -43,7 +43,8 @@ This class will help you prepare to take or re-take the exam, gauge your prepare
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
 {: .present-before-paste}
 
-### [<u><strong>Our Systems, Your Business</strong></u>&nbsp;](https://www.eventbrite.com/e/our-systems-your-business-tickets-62145332362){: target="_blank"}
+### [### [Our Systems, Your Business](https://www.eventbrite.com/e/our-systems-your-business-tickets-62145332362){: target="_blank"}
+{: .center}
 
 Come out to Our Systems Your Business at KW Philly hosted our Growth & Education committees. Below are the topics that will be covered & their time slots. We'll break for lunch at 12pm - lunch is BYO.
 {: .center.present-before-paste}
