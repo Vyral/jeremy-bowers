@@ -78,4 +78,8 @@ Sign up NOW to join our first annual KW Philly Center City Scavenger Hunt brough
 {: .center}
 
 <iframe width="1049" height="590" src="https://www.youtube.com/embed/6Y4TxIuRo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="1049" height="590" src="https://www.youtube.com/embed/q2rnvAOHPzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
