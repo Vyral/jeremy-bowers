@@ -6,14 +6,7 @@ permalink: /events/
 
 <br>
 
-<iframe id="bsIframebxmaxeeap7320451219636526" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560290362&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
-{: .present-before-paste}
-
-<script type="text/javascript">
-var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1560290362,"userId":39203611,"responsive":true,"type":"html5"};
-</script>
-
-<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+<iframe src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?userId=39203611&t=1560457955" width="100%" height="100%" scrolling="no" frameborder="0" allowtransparency="true" allow="autoplay" allowfullscreen="true"></iframe>
 
 Upcoming Events
 {: .center.present-before-paste}
