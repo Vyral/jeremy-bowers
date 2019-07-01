@@ -4,12 +4,15 @@ title: Events
 permalink: /events/
 ---
 
-<br>
+&nbsp;
 
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1560458358,"userId":39203611,"responsive":true,"type":"html5"};
 </script>
+
 <script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+
+<iframe id="bsIframebxmaxeeap31919392631766685" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
 Upcoming Events
 {: .center.present-before-paste}
@@ -23,13 +26,13 @@ Upcoming Events
 ### [![](/uploads/june-2019-2.PNG){: width="672" height="424"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf){: target="_blank"}
 {: .center}
 
-### [Career Night](https://real-estate-career-night.eventbrite.com){: target="_blank"}&nbsp;
+### [Career Night](https://real-estate-career-night1.eventbrite.com){: target="_blank"}&nbsp;
 {: .center}
 
 Come see what it’s like to be a part of our team and experience KW Philly Culture at its finest. You will be joined by top producers in our office.
 {: .present-before-paste}
 
-### [Exam Preps ](https://real-estate-exam-prep.eventbrite.com){: target="_blank"}
+### [Exam Preps](https://real-estate-exam-prep.eventbrite.com){: target="_blank"}
 {: .center}
 
 This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
@@ -73,9 +76,10 @@ Sign up NOW to join our first annual KW Philly Center City Scavenger Hunt brough
 ##### [KW Family Reunion](https://familyreunion.kw.com){: target="_blank"}
 {: .center}
 
-<iframe width="1049" height="590" src="https://www.youtube.com/embed/6Y4TxIuRo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1049" height="590" src="https://www.youtube.com/embed/6Y4TxIuRo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<br/>
+&nbsp;
 
-<iframe width="1049" height="590" src="https://www.youtube.com/embed/q2rnvAOHPzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1049" height="590" src="https://www.youtube.com/embed/q2rnvAOHPzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 ---
