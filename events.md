@@ -32,7 +32,7 @@ Upcoming Events
 Come see what it’s like to be a part of our team and experience KW Philly Culture at its finest. You will be joined by top producers in our office.
 {: .present-before-paste}
 
-### [Exam Preps](https://real-estate-exam-prep.eventbrite.com){: target="_blank"}
+### [Exam Preps](https://prep-course.eventbrite.com){: target="_blank"}
 {: .center}
 
 This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
