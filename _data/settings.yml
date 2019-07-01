@@ -20,6 +20,8 @@ custom_links:
     url: /events/
   - title: Technology
     url: /technology/
+  - title: Wealth Building
+    url: /wealth-building
 client:
   name: Jeremy Bowers
   title: Team Leader/CEO
