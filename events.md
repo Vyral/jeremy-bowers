@@ -4,8 +4,6 @@ title: Events
 permalink: /events/
 ---
 
-&nbsp;
-
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1560458358,"userId":39203611,"responsive":true,"type":"html5"};
 </script>
@@ -15,7 +13,7 @@ var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":15604
 <iframe id="bsIframebxmaxeeap31919392631766685" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
 Upcoming Events
-{: .center.present-before-paste}
+{: .center}
 
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
@@ -30,31 +28,22 @@ Upcoming Events
 {: .center}
 
 Come see what it’s like to be a part of our team and experience KW Philly Culture at its finest. You will be joined by top producers in our office.
-{: .present-before-paste}
 
 ### [Exam Preps](https://prep-course.eventbrite.com){: target="_blank"}
 {: .center}
 
 This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
-{: .present-before-paste}
 
 ### [IGNITE Event](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-61437747958){: target="_blank"}
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
-{: .present-before-paste}
 
-### [Our Systems, Your Business](https://www.eventbrite.com/e/our-systems-your-business-tickets-62145332362){: target="_blank"}
+### [Event Marketing with the CEO of Vyral Marketing](https://www.eventbrite.com/e/event-marketing-with-the-ceo-of-vyral-marketing-tickets-62510918841){: target="_blank"}
 {: .center}
 
-Come out to Our Systems Your Business at KW Philly hosted our Growth & Education committees. Below are the topics that will be covered & their time slots. We'll break for lunch at 12pm - lunch is BYO.
-{: .center.present-before-paste}
-
-### [<u>Center City Challenge</u>](https://www.eventbrite.com/e/1st-annual-kw-philly-city-scavenger-hunt-tickets-62141251155){: target="_blank"}
+Learn how to grow your business by $250,000 with the CEO of Vyral Marketing and Jeremy Bowers, CEO of KW Philly\!
 {: .center}
-
-Sign up NOW to join our first annual KW Philly Center City Scavenger Hunt brought to you by Center City Mortgage, Great American Abstract & GCA Insurance\!
-{: .center.present-before-paste}
 
 ### Mastermind Series-
 {: .center}
@@ -77,8 +66,6 @@ Sign up NOW to join our first annual KW Philly Center City Scavenger Hunt brough
 {: .center}
 
 <iframe width="1049" height="590" src="https://www.youtube.com/embed/6Y4TxIuRo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-&nbsp;
 
 <iframe width="1049" height="590" src="https://www.youtube.com/embed/q2rnvAOHPzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
