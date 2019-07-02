@@ -10,6 +10,8 @@ var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":15604
 
 <script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
+<iframe id="bsIframebxmaxeeap7938280597862766" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
+
 <iframe id="bsIframebxmaxeeap31919392631766685" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
 Upcoming Events
@@ -24,17 +26,17 @@ Upcoming Events
 ### [![](/uploads/june-2019-2.PNG){: width="672" height="424"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf){: target="_blank"}
 {: .center}
 
-### [Career Night](https://real-estate-career-night1.eventbrite.com){: target="_blank"}&nbsp;
+### [Career Night](https://www.eventbrite.com/e/career-night-tickets-64569045754){: target="_blank"}&nbsp;
 {: .center}
 
 Come see what it’s like to be a part of our team and experience KW Philly Culture at its finest. You will be joined by top producers in our office.
 
-### [Exam Preps](https://prep-course.eventbrite.com){: target="_blank"}
+### [Exam Preps](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-64568825094){: target="_blank"}
 {: .center}
 
 This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
 
-### [IGNITE Event](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-61437747958){: target="_blank"}
+### [IGNITE Event](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-63353325502){: target="_blank"}
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
@@ -44,6 +46,11 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 
 Learn how to grow your business by $250,000 with the CEO of Vyral Marketing and Jeremy Bowers, CEO of KW Philly\!
 {: .center}
+
+### [Group Door Knocking](https://www.eventbrite.com/e/group-door-knocking-tickets-64627878725){: target="_blank"}
+{: .center}
+
+Grow your business by door knocking\! Get face-to-face with your potential clients. We will go over scripts and grosw your business together\! You don't want to miss this event.
 
 ### Mastermind Series-
 {: .center}
