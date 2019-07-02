@@ -16,12 +16,12 @@ custom_links:
     url: /office-tours/
   - title: Freebies
     url: /freebies/
+  - title: Wealth Building
+    url: /wealth-building
   - title: Events
     url: /events/
   - title: Technology
     url: /technology/
-  - title: Wealth Building
-    url: /wealth-building
 client:
   name: Jeremy Bowers
   title: Team Leader/CEO
