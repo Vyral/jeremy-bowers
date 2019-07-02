@@ -12,8 +12,6 @@ var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":15604
 
 <iframe id="bsIframebxmaxeeap7938280597862766" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
-<iframe id="bsIframebxmaxeeap31919392631766685" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
-
 Upcoming Events
 {: .center}
 
