@@ -3,13 +3,16 @@ layout: default
 title: Events
 permalink: /events/
 ---
-<br>
-<br>
+
+<br><br>
+
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1560458358,"userId":39203611,"responsive":true,"type":"html5"};
 </script>
 
 <script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+
+<iframe id="bsIframebxmaxeeap8278208777227796" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
 
 Upcoming Events
 {: .center}
@@ -17,7 +20,11 @@ Upcoming Events
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-## [![](/uploads/june-2019.PNG){: width="677" height="438"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf){: target="_blank"}
+&nbsp;
+
+![](/uploads/events1.PNG){: width="812" height="528"}
+
+## &nbsp;
 {: .center}
 
 ### [![](/uploads/june-2019-2.PNG){: width="672" height="424"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf){: target="_blank"}
