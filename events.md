@@ -20,8 +20,6 @@ Upcoming Events
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-&nbsp;
-
 ![](/uploads/events1.PNG){: width="812" height="528"}
 
 ## &nbsp;
