@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-<br><br>
+<br>&nbsp;
 
 <script type="text/javascript">
 var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1560458358,"userId":39203611,"responsive":true,"type":"html5"};
@@ -12,10 +12,7 @@ var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":15604
 
 <script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
-<iframe id="bsIframebxmaxeeap8278208777227796" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>
-
-Upcoming Events
-{: .center}
+<iframe id="bsIframebxmaxeeap1772614376471433" src="//cdn.bannersnack.com/banners/bxmaxeeap/embed/index.html?t=1560458358&amp;userId=39203611&amp;responsive=true" width="100%" height="100%" frameborder="0" allow="autoplay" allowtransparency="true" scrolling="no" allowfullscreen=""></iframe>Upcoming Events
 
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
