@@ -27,17 +27,17 @@ Upcoming Events
 ### [Career Night](https://www.eventbrite.com/e/career-night-tickets-64569045754){: target="_blank"}&nbsp;
 {: .center}
 
-Come see what it’s like to be a part of our team and experience KW Philly Culture at its finest. You will be joined by top producers in our office.
+Come see what it’s like to be a part of our team and experience KW Philly culture at its finest. You will be joined by top producers in our office.
 
 ### [Exam Preps](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-64568825094){: target="_blank"}
 {: .center}
 
-This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
+This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test-taking strategies, and discuss steps to take after passing your test.
 
 ### [IGNITE Event](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-63353325502){: target="_blank"}
 {: .center}
 
-Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion and contract negotiations.
+Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
 
 ### [Event Marketing with the CEO of Vyral Marketing](https://www.eventbrite.com/e/event-marketing-with-the-ceo-of-vyral-marketing-tickets-62510918841){: target="_blank"}
 {: .center}
@@ -48,7 +48,7 @@ Learn how to grow your business by $250,000 with the CEO of Vyral Marketing and 
 ### [Group Door Knocking](https://www.eventbrite.com/e/group-door-knocking-tickets-64627878725){: target="_blank"}
 {: .center}
 
-Grow your business by door knocking\! Get face-to-face with your potential clients. We will go over scripts and grosw your business together\! You don't want to miss this event.
+Grow your business by door knocking\! Get face-to-face with your potential clients. We will go over scripts and grow your business together\! You don't want to miss this event.
 
 ### Mastermind Series-
 {: .center}
