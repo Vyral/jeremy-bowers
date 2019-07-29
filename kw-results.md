@@ -9,6 +9,8 @@ permalink: /kw-results/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QKJvm3zdVic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+[Head Turners](https://outfront.kw.com/agents/head-turners/){: target="_blank"}
+
 ---
 
 ### Results
@@ -45,11 +47,9 @@ permalink: /kw-results/
 
 [![](/img/why-kw.jpg){: .post-image}](/img/why-kw.pdf){: target="_blank"}
 
-
 ---
 
 ### Results
 {: .center}
-
 
 &nbsp;
