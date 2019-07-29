@@ -8,12 +8,8 @@ show_custom_links: true
 custom_links:
   - title: KW Results
     url: /kw-results/
-  - title: Training
-    url: /training/
   - title: Culture
     url: /culture/
-  - title: Office Tours
-    url: /office-tours/
   - title: Freebies
     url: /freebies/
   - title: Wealth Building
