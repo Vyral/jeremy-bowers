@@ -21,18 +21,14 @@ Upcoming Events
 ## &nbsp;
 {: .center}
 
-### [![](/uploads/june-2019-2.PNG){: width="672" height="424"}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/June+2019+KW+Philly+Calendar.pdf){: target="_blank"}
+### ![](/uploads/june-2019-2.PNG){: width="672" height="424"}
 {: .center}
 
-### [Career Night](https://www.eventbrite.com/e/career-night-tickets-64569045754){: target="_blank"}&nbsp;
+
+### [MEGA Camp](https://www.eventbrite.com/e/mega-camp-regional-gathering-tickets-63878869418){: target="_blank"}
 {: .center}
 
-Come see what it’s like to be a part of our team and experience KW Philly culture at its finest. You will be joined by top producers in our office.
-
-### [Exam Preps](https://www.eventbrite.com/e/real-estate-exam-prep-course-tickets-64568825094){: target="_blank"}
-{: .center}
-
-This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test-taking strategies, and discuss steps to take after passing your test.
+Join us for an evening celebrating our Agents and Leadership at our annual networking and socializing event! Heavy appetizers will be provided as well as Ping-Pong for all!
 
 ### [IGNITE Event](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-63353325502){: target="_blank"}
 {: .center}
