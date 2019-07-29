@@ -39,17 +39,6 @@ This class will help you prepare to take or re-take the exam, gauge your prepare
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
 
-### [Event Marketing with the CEO of Vyral Marketing](https://www.eventbrite.com/e/event-marketing-with-the-ceo-of-vyral-marketing-tickets-62510918841){: target="_blank"}
-{: .center}
-
-Learn how to grow your business by $250,000 with the CEO of Vyral Marketing and Jeremy Bowers, CEO of KW Philly\!
-{: .center}
-
-### [Group Door Knocking](https://www.eventbrite.com/e/group-door-knocking-tickets-64627878725){: target="_blank"}
-{: .center}
-
-Grow your business by door knocking\! Get face-to-face with your potential clients. We will go over scripts and grow your business together\! You don't want to miss this event.
-
 ### Mastermind Series-
 {: .center}
 
@@ -70,8 +59,29 @@ Grow your business by door knocking\! Get face-to-face with your potential clien
 ##### [KW Family Reunion](https://familyreunion.kw.com){: target="_blank"}
 {: .center}
 
-<iframe width="1049" height="590" src="https://www.youtube.com/embed/6Y4TxIuRo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Y4TxIuRo-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="1049" height="590" src="https://www.youtube.com/embed/q2rnvAOHPzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q2rnvAOHPzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+---
+
+### Real Estate Training with Jeremy Bowers and KW Philly
+{: .center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jRzduzaheek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+---
+
+### KW Connect
+{: .center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CZbv9z0hz3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+---
+
+### A Guide to an Effective Listing Presentation
+{: .center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OtkOEB6cSPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ---
