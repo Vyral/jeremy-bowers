@@ -35,6 +35,14 @@ Join us for an evening celebrating our Agents and Leadership at our annual netwo
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
 
+### [KW Philly Team Meeting](https://www.eventbrite.com/e/kw-philly-team-meeting-tickets-67582638491)
+
+### [10-Step Process to Close 16 Deals](https://www.eventbrite.com/e/10-step-process-to-close-16-deals-w-jeremy-bowers-tickets-67519946979)
+
+### [IGNITE Intensive](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-66580262357)
+
+Ignite is usually taught in 12 individual sessions over a month-long period, but we are offering the unique opportunity to participate in an Ignite Intensive that will go through all 12 sessions in 3 full days of training.
+
 ### Mastermind Series-
 {: .center}
 
