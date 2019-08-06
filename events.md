@@ -29,19 +29,25 @@ Upcoming Events
 {: .center}
 
 Join us for an evening celebrating our Agents and Leadership at our annual networking and socializing event! Heavy appetizers will be provided as well as Ping-Pong for all!
+{: .center}
 
 ### [IGNITE Event](https://www.eventbrite.com/e/ignite-skills-to-spark-a-real-estate-career-tickets-63353325502){: target="_blank"}
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
+{: .center}
 
 ### [KW Philly Team Meeting](https://www.eventbrite.com/e/kw-philly-team-meeting-tickets-67582638491)
+{: .center}
 
 ### [10-Step Process to Close 16 Deals](https://www.eventbrite.com/e/10-step-process-to-close-16-deals-w-jeremy-bowers-tickets-67519946979)
+{: .center}
 
 ### [IGNITE Intensive](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-66580262357)
+{: .center}
 
 Ignite is usually taught in 12 individual sessions over a month-long period, but we are offering the unique opportunity to participate in an Ignite Intensive that will go through all 12 sessions in 3 full days of training.
+{: .center}
 
 ### Mastermind Series-
 {: .center}
