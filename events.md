@@ -15,7 +15,7 @@ Upcoming Events
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-![]<a href="https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/August+2019+Events.png" tagret="_blank">(/uploads/events1.PNG)</a>{: width="812" height="528"}
+![]<a href="https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/August+2019+Events.png" tagret="_blank">(/uploads/events1.PNG){: width="812" height="528"}</a>
 {: .center}
 
 ## &nbsp;
