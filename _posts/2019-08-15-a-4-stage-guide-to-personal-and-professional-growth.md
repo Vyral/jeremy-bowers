@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/ZHAPi1DTKZ0'
 
 {% include youtube.html %}
 
-If you want to grow, whether personally or professionally, there are four stages you need to go through first. Let’s discuss.
+<p style="text-align: center;"><em>If you want to grow, whether personally or professionally, there are four stages you need to go through first. Let’s discuss.</em></p>
 
 There are four stages of growth every successful agent will go through during their career, so today we’ll shed some light on each. Before I cover the importance of growth, in general, let’s go over what all of these stages are.&nbsp;
 
