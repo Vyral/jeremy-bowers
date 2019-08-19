@@ -15,3 +15,19 @@ permalink: /technology/
 &nbsp;
 
 <iframe width="962" height="541" src="https://www.youtube.com/embed/esuTYUbXxOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+&nbsp;
+
+<iframe width="962" height="541" src="https://www.youtube.com/embed/beu3JYAAKMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+&nbsp;
+
+<iframe width="962" height="541" src="https://www.youtube.com/embed/aJZSiE4oOoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+&nbsp;
+
+<iframe width="962" height="541" src="https://www.youtube.com/embed/S_mpJF3n9Mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+&nbsp;
+
+<iframe width="962" height="541" src="https://www.youtube.com/embed/AcSs2J9s3zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
