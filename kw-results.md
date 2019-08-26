@@ -52,4 +52,6 @@ permalink: /kw-results/
 ### Results
 {: .center}
 
+![](/uploads/Results. Market Share.png){: .post-image}
+
 &nbsp;
