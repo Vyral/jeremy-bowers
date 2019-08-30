@@ -15,13 +15,13 @@ Upcoming Events
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-[![](/uploads/events1.PNG){: width="812" height="528"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/August+2019+Events.png){: target="_blank"}
+[![](/uploads/september-2019-kw-philly-calendar.jpg){: width="2550" height="1650"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/September+2019+KW+Philly+Calendar.pdf){: target="_blank"}
 {: .center}
 
 ## &nbsp;
 {: .center}
 
-### ![](/uploads/june-2019-2.PNG){: width="672" height="424"}
+### ![](/uploads/september-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}
 {: .center}
 
 ### [MEGA Camp](https://www.eventbrite.com/e/mega-camp-regional-gathering-tickets-63878869418){: target="_blank"}
