@@ -10,7 +10,7 @@ permalink: /events/
 						var bannersnack_embed = {"hash":"bxmaxeeap","width":1920,"height":1080,"t":1560458358,"userId":39203611,"responsive":true,"type":"html5"};
 					</script>
 
-Upcoming Events
+# Upcoming Events
 
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
