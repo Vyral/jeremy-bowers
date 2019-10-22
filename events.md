@@ -48,13 +48,11 @@ Once a month, KW Philly brings in TOP buyer and seller agents that share their p
 
 You passed your real estate licensing test….. Now what? Meet with Top Performing KW Philly Agents to learn how to earn $100,000 in your first year in Real Estate, how to build leverage a Transaction Coordinator to do more business, and how to decide if you should be a Solo Agent or a Team Agent.
 
-### [Reak Estate Exam Prep](https://exam-prep-class.eventbrite.com){: target="_blank"}
+### [Real Estate Exam Prep](https://exam-prep-class.eventbrite.com){: target="_blank"}
 
 This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
 
-### <u><a target="_blank" href="https://business-planning-2020.eventbrite.com">B</a>usiness Planning Clinic</u>
-
-Are you ready for 2020? Noah Ostroff of Philly Living will help you prepare your business for 2020. Learn valuable skills to take your business to the next level in the upcoming year\!
+### &nbsp;
 
 ### Mastermind Series-
 {: .center}
