@@ -12,16 +12,19 @@ permalink: /events/
 
 # Upcoming Events
 
+## &nbsp;
+{: .center}
+
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-[![](/uploads/october-training-calendar.jpg){: width="1913" height="1238"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/September+2019+KW+Philly+Calendar.pdf){: target="_blank"}
+[![](/uploads/november-calendar.jpg){: width="1913" height="1238"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/September+2019+KW+Philly+Calendar.pdf){: target="_blank"}
 {: .center}
 
 ## &nbsp;
 {: .center}
 
-### ![](/uploads/october-class-description-key.jpg){: width="1913" height="1238"}
+### ![](/uploads/november-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}
 {: .center}
 
 ### &nbsp;
@@ -33,32 +36,40 @@ permalink: /events/
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
 {: .center}
 
+### &nbsp;
+{: .center}
+
 ### [KW Philly Team Meeting](https://november-team-meeting.eventbrite.com){: target="_blank"}
 {: .center}
 
 &nbsp;
 
-### [Live Buyer & Listing Presentation](https://www.eventbrite.com/e/live-buyer-listing-presentation-tickets-70928877181){: target="_blank"}
+### [Mimosas & Contracts](https://mimosasandcontracts.eventbrite.com){: target="_blank"}
 {: .center}
 
-Once a month, KW Philly brings in TOP buyer and seller agents that share their presentations in front of an audience.
+Participants will be lead through best practices around major Real Estate agreements and develop templates for future use\!
+
+### &nbsp;
+{: .center}
+
+### [KW Philly Deal Tank](https://deal-tank.eventbrite.com){: target="_blank"}
+
+Join us for KW Philly's real estate remake of ABC's hit show, Shark Tank\! Our panel of "Sharks" are self-made investing experts who have paved the way for investors alike. Pitch your deal to our Sharks for a chance to make your dreams a reality. Do you have what it takes? This is your opportunity to practice your pitch; there will be investors and agents in the audience.&nbsp;
+
+&nbsp;
 
 ### [Career Night](https://career-night-tickets.eventbrite.com){: target="_blank"}
 {: .center}
 
 You passed your real estate licensing test….. Now what? Meet with Top Performing KW Philly Agents to learn how to earn $100,000 in your first year in Real Estate, how to build leverage a Transaction Coordinator to do more business, and how to decide if you should be a Solo Agent or a Team Agent.
 
+### &nbsp;
+
 ### [Real Estate Exam Prep](https://exam-prep-class.eventbrite.com){: target="_blank"}
 
 This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
 
 ### &nbsp;
-
-### Mastermind Series-
-{: .center}
-
-### Held the First Friday of every month
-{: .center}
 
 ### Regional Events
 {: .center}
