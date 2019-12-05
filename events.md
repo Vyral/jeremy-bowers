@@ -18,13 +18,13 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-[![](/uploads/november-calendar.jpg){: width="1913" height="1238"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/September+2019+KW+Philly+Calendar.pdf){: target="_blank"}
+[![](/uploads/december-2019-kw-philly-calendar.jpg){: width="2550" height="1650"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/September+2019+KW+Philly+Calendar.pdf){: target="_blank"}
 {: .center}
 
 ## &nbsp;
 {: .center}
 
-### ![](/uploads/november-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}
+### ![](/uploads/december-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}
 {: .center}
 
 ### &nbsp;
@@ -39,35 +39,29 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### &nbsp;
 {: .center}
 
-### [KW Philly Team Meeting](https://november-team-meeting.eventbrite.com){: target="_blank"}
+### [KW Philly Team Meeting](https://decemebr-team-meeting.eventbrite.com){: target="_blank"}
 {: .center}
 
 &nbsp;
 
-### [Mimosas & Contracts](https://mimosasandcontracts.eventbrite.com){: target="_blank"}
+### [10 Step Process To Close 16 Deals](https://10-step-process-close-16-deals.eventbrite.com){: target="_blank"}
 {: .center}
 
-Participants will be lead through best practices around major Real Estate agreements and develop templates for future use\!
+Learn how your schedule, habits, and daily activities are affecting your business. In this informative training class, Jeremy will help you create a schedule and build habits to grow your business.&nbsp;
 
 ### &nbsp;
 {: .center}
 
-### [KW Philly Deal Tank](https://deal-tank.eventbrite.com){: target="_blank"}
+### [How To Start a Team With Noah Ostroff](https://start-a-team.eventbrite.com){: target="_blank"}
 
-Join us for KW Philly's real estate remake of ABC's hit show, Shark Tank\! Our panel of "Sharks" are self-made investing experts who have paved the way for investors alike. Pitch your deal to our Sharks for a chance to make your dreams a reality. Do you have what it takes? This is your opportunity to practice your pitch; there will be investors and agents in the audience.&nbsp;
+Are you ready to take the next step in your real estate career? Do you want to grow your business and leverage others? Are you the leader of a team and want to expand?Come to KW Philly on December 11th at 11:00 AM and learn from Noah Ostroff. Noah is the CEO of PhillyLiving, one of Philadelphia's top-producing teams.&nbsp;
 
 &nbsp;
 
-### [Career Night](https://career-night-tickets.eventbrite.com){: target="_blank"}
+### [Event Marketing for 2020 With Jeremy Bowers](https://event-marketing-2020.eventbrite.com){: target="_blank"}
 {: .center}
 
-You passed your real estate licensing test….. Now what? Meet with Top Performing KW Philly Agents to learn how to earn $100,000 in your first year in Real Estate, how to build leverage a Transaction Coordinator to do more business, and how to decide if you should be a Solo Agent or a Team Agent.
-
-### &nbsp;
-
-### [Real Estate Exam Prep](https://exam-prep-class.eventbrite.com){: target="_blank"}
-
-This class will help you prepare to take or re-take the exam, gauge your preparedness, help you review and learn valuable test taking strategies, and discuss steps to take after passing your test.
+In this training class, Jeremy will assist you in building out your event marketing calendar and plan for 2020. Additionally, he will teach you ways to plan these events using little to no money of your own. This is the perfect time to prepare your business for the new year. You don't want to miss this\!&nbsp;
 
 ### &nbsp;
 
