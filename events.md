@@ -18,19 +18,19 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-[![](/uploads/december-2019-kw-philly-calendar.jpg){: width="2550" height="1650"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Events+Calendar/2019/September+2019+KW+Philly+Calendar.pdf){: target="_blank"}
+![](/uploads/january-2020-kw-philly-calendar.jpg){: width="2550" height="1650"}
 {: .center}
 
 ## &nbsp;
 {: .center}
 
-### ![](/uploads/december-2019-kw-philly-calendar---descriptions.jpg){: width="2550" height="1650"}
+### ![](/uploads/january-2020-kw-philly-calendar-descriptions.jpg){: width="2550" height="1650"}
 {: .center}
 
 ### &nbsp;
 {: .center}
 
-### [IGNITE Intensive](https://intensive-ignite.eventbrite.com){: target="_blank"}
+### [IGNITE Intensive](https://ignite-january.eventbrite.com){: target="_blank"}
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
@@ -39,29 +39,30 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### &nbsp;
 {: .center}
 
-### [KW Philly Team Meeting](https://decemebr-team-meeting.eventbrite.com){: target="_blank"}
+### [KW Philly Team Meeting](https://january-team-meeting.eventbrite.com){: target="_blank"}
 {: .center}
 
 &nbsp;
 
-### [10 Step Process To Close 16 Deals](https://10-step-process-close-16-deals.eventbrite.com){: target="_blank"}
+### [Agent Financials with Brandon Green](https://financials.eventbrite.com){: target="_blank"}
 {: .center}
 
-Learn how your schedule, habits, and daily activities are affecting your business. In this informative training class, Jeremy will help you create a schedule and build habits to grow your business.&nbsp;
+You are a real estate agent...and a business owner\! Brandon Green, real estate expert, will teach you to be a business owner, not just a real estate expert. Leave this class understanding where your money comes from and where it goes. Set up your business to protect it and your money\!
 
 ### &nbsp;
 {: .center}
 
-### [How To Start a Team With Noah Ostroff](https://start-a-team.eventbrite.com){: target="_blank"}
+### [How to Renovate a Home with Jeremy Bowers](https://how-to-renovate.eventbrite.com){: target="_blank"}
 
-Are you ready to take the next step in your real estate career? Do you want to grow your business and leverage others? Are you the leader of a team and want to expand?Come to KW Philly on December 11th at 11:00 AM and learn from Noah Ostroff. Noah is the CEO of PhillyLiving, one of Philadelphia's top-producing teams.&nbsp;
+So, you've found the perfect investment deal and the property needs some work. What should you do next? In this training class, Jeremy will teach you teach you how to renovate a home from start to finish. Learn how to estimate costs, work with contractors, and manage a renovation project.&nbsp;
 
-&nbsp;
-
-### [Event Marketing for 2020 With Jeremy Bowers](https://event-marketing-2020.eventbrite.com){: target="_blank"}
+### &nbsp;
 {: .center}
 
-In this training class, Jeremy will assist you in building out your event marketing calendar and plan for 2020. Additionally, he will teach you ways to plan these events using little to no money of your own. This is the perfect time to prepare your business for the new year. You don't want to miss this\!&nbsp;
+### [How To Double Your Biz Through Leverage with Jeremy Bowers](https://double-your-biz-through-leverage.eventbrite.com){: target="_blank"}
+{: .center}
+
+Take your business to the next level and join Jeremy Bowers as he teaches you how to leverage others in order to get ahead. Jeremy will teach you procedures and processes that should be implemented in your business.&nbsp;
 
 ### &nbsp;
 
