@@ -18,19 +18,19 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-![](/uploads/january-2020-kw-philly-calendar.jpg){: width="2550" height="1650"}
+![](/uploads/february-calendar.jpg){: width="2550" height="1650"}
 {: .center}
 
 ## &nbsp;
 {: .center}
 
-### ![](/uploads/january-2020-kw-philly-calendar-descriptions.jpg){: width="2550" height="1650"}
+### ![](/uploads/february-2020-kw-philly-calendar.jpg){: width="2550" height="1650"}
 {: .center}
 
 ### &nbsp;
 {: .center}
 
-### [IGNITE Intensive](https://ignite-january.eventbrite.com){: target="_blank"}
+### [IGNITE Intensive](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-91906168825){: target="_blank"}
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
@@ -47,7 +47,7 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### [Agent Financials with Brandon Green](https://financials.eventbrite.com){: target="_blank"}
 {: .center}
 
-You are a real estate agent...and a business owner\! Brandon Green, real estate expert, will teach you to be a business owner, not just a real estate expert. Leave this class understanding where your money comes from and where it goes. Set up your business to protect it and your money\!
+You are a real estate agent…and a business owner\! Brandon Green, real estate expert, will teach you to be a business owner, not just a real estate expert. Leave this class understanding where your money comes from and where it goes. Set up your business to protect it and your money\!
 
 ### &nbsp;
 {: .center}
