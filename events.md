@@ -39,30 +39,28 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### &nbsp;
 {: .center}
 
-### [KW Philly Team Meeting](https://january-team-meeting.eventbrite.com){: target="_blank"}
+### [KW Philly Team Meeting](https://february-team-meeting.eventbrite.com){: target="_blank"}
 {: .center}
 
 &nbsp;
 
-### [Agent Financials with Brandon Green](https://financials.eventbrite.com){: target="_blank"}
+### [Better Boss Boot Camp w/ Linzee Cirpani](https://better-boss-boot-camp.eventbrite.com){: target="_blank"}
 {: .center}
 
-You are a real estate agent…and a business owner\! Brandon Green, real estate expert, will teach you to be a business owner, not just a real estate expert. Leave this class understanding where your money comes from and where it goes. Set up your business to protect it and your money\!
+4 classes, 4 topics, 4 YOU and YOUR ADMIN\! Linzee Ciprani of Ciprani Consulting and Jeremy Bowers are hosting the Better Boss Boot Camp on a quarterly basis at KW Philly. This boot camp will cover communication skills, systems, marketing, and scalability. Add value to your business and invest in yourself with this boot camp training series\!
 
 ### &nbsp;
 {: .center}
 
-### [How to Renovate a Home with Jeremy Bowers](https://how-to-renovate.eventbrite.com){: target="_blank"}
+### [Learn 5 Objection Handlers to Close Any Deal w/ Jeremy Bowers](https://5-objection-handlers.eventbrite.com){: target="_blank"}
 
-So, you've found the perfect investment deal and the property needs some work. What should you do next? In this training class, Jeremy will teach you teach you how to renovate a home from start to finish. Learn how to estimate costs, work with contractors, and manage a renovation project.&nbsp;
+With over 16 years in the business and thousands of appointments under his belt, Jeremy Bowers' objection handling experience is undeniable. On February 27th, Jeremy will teach agents his TOP 5 objection handlers to close any deal. Remember, objection is a route to close your deals.&nbsp;
 
-### &nbsp;
-{: .center}
+&nbsp;
 
-### [How To Double Your Biz Through Leverage with Jeremy Bowers](https://double-your-biz-through-leverage.eventbrite.com){: target="_blank"}
-{: .center}
+### [Women's Growth Summit](https://womens-growth-summit-2020.eventbrite.com){: target="_blank"}
 
-Take your business to the next level and join Jeremy Bowers as he teaches you how to leverage others in order to get ahead. Jeremy will teach you procedures and processes that should be implemented in your business.&nbsp;
+&nbsp;
 
 ### &nbsp;
 
