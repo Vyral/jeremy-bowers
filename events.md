@@ -60,7 +60,7 @@ With over 16 years in the business and thousands of appointments under his belt,
 
 ### [Women's Growth Summit](https://womens-growth-summit-2020.eventbrite.com){: target="_blank"}
 
-&nbsp;
+Join us for our first annual Women's Growth Summit on March 11th, 2020 at KW Philly. Individuals from across all industries are welcome to attend this powerful and inspiring event\!
 
 ### &nbsp;
 
