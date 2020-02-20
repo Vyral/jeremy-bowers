@@ -30,4 +30,4 @@ permalink: /freebies/
 
 [![](/uploads/accounting.png){: width="1545" height="2000"}](mailto:accountant@phillykw.com?subject=Tell%20Me%20More%20About%20The%20KW%20Philly%20Accounting%20Concierge&amp;body=Hi%2C%0A%0AJeremy%20Bowers%20told%20me%20about%20the%20services%20you%20offer.%20Let's%20talk%20about%20how%20you%20can%20help%20me%20with%20my%20business!)
 
-![](/uploads/listing-coordinator.png){: width="1545" height="2000"}
+[![](/uploads/listing-coordinator.png){: width="1545" height="2000"}](mailto:Listingcoordinator@phillykw.com?subject=Tell%20Me%20More%20About%20The%20KW%20Philly%20Listing%20Concierge)
