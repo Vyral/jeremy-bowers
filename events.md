@@ -52,7 +52,7 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### &nbsp;
 {: .center}
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Learn 5 Objection Handlers to Close Any Deal w/ Jeremy Bowers](https://5-objection-handlers.eventbrite.com){: target="_blank"}
+### [Learn 5 Objection Handlers to Close Any Deal w/ Jeremy Bowers](https://5-objection-handlers.eventbrite.com){: target="_blank"}
 
 With over 16 years in the business and thousands of appointments under his belt, Jeremy Bowers' objection handling experience is undeniable. On February 27th, Jeremy will teach agents his TOP 5 objection handlers to close any deal. Remember, objection is a route to close your deals.&nbsp;
 
