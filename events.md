@@ -18,13 +18,13 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-![](/uploads/february-calendar-1.jpg){: width="1950" height="1262"}
+![](/uploads/february-calendar-2.jpg){: width="1350" height="874"}
 {: .center}
 
 ## &nbsp;
 {: .center}
 
-### ![](/uploads/february-2020-kw-philly-calendar.jpg){: width="2550" height="1650"}
+### ![](/uploads/february-2020-kw-philly-calendar-1.jpg){: width="1500" height="971"}
 {: .center}
 
 ### &nbsp;
@@ -52,7 +52,7 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### &nbsp;
 {: .center}
 
-### [Learn 5 Objection Handlers to Close Any Deal w/ Jeremy Bowers](https://5-objection-handlers.eventbrite.com){: target="_blank"}
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Learn 5 Objection Handlers to Close Any Deal w/ Jeremy Bowers](https://5-objection-handlers.eventbrite.com){: target="_blank"}
 
 With over 16 years in the business and thousands of appointments under his belt, Jeremy Bowers' objection handling experience is undeniable. On February 27th, Jeremy will teach agents his TOP 5 objection handlers to close any deal. Remember, objection is a route to close your deals.&nbsp;
 
