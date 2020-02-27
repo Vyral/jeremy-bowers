@@ -12,9 +12,9 @@ permalink: /freebies/
 
 [![](/uploads/jeremy-bowers-blog.png){: width="582" height="396"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Marketing+Packet.pdf){: target="_blank"}
 
-[![](/uploads/tom-ferry-flyer-2.jpg){: width="192" height="192"}](https://www.youtube.com/watch?v=tkRRWvZtMowhttps://www.youtube.com/watch?v=tkRRWvZtMow){: target="_blank"}
+[![](/uploads/tom-ferry-flyer-3.jpg){: width="384" height="384"}](https://www.youtube.com/watch?v=tkRRWvZtMowhttps://www.youtube.com/watch?v=tkRRWvZtMow){: target="_blank"}
 
-[![](/uploads/mi-2.jpg){: width="192" height="192"}](https://www.mikeferry.com/main/files/AW_HANDLING_OBJECTIONS_SCRIPTS.pdf){: target="_blank"}
+[![](/uploads/mi-3.jpg){: width="384" height="384"}](https://www.mikeferry.com/main/files/AW_HANDLING_OBJECTIONS_SCRIPTS.pdf){: target="_blank"}
 
 [![](/uploads/24-topics.PNG){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/kw+mrea+book.pdf){: target="_blank"}
 
