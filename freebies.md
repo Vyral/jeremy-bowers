@@ -14,6 +14,8 @@ permalink: /freebies/
 
 [![](/uploads/tom-ferry-flyer.jpg){: width="1080" height="1080"}](https://www.youtube.com/watch?v=tkRRWvZtMowhttps://www.youtube.com/watch?v=tkRRWvZtMow){: target="_blank"}
 
+[![](/uploads/mi.jpg){: width="1080" height="1080"}](https://www.mikeferry.com/main/files/AW_HANDLING_OBJECTIONS_SCRIPTS.pdf){: target="_blank"}
+
 [![](/uploads/24-topics.PNG){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/kw+mrea+book.pdf){: target="_blank"}
 
 &nbsp;
