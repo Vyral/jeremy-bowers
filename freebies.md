@@ -16,6 +16,8 @@ permalink: /freebies/
 
 [![](/uploads/mi-4.jpg){: width="528" height="528"}](https://www.mikeferry.com/main/files/AW_HANDLING_OBJECTIONS_SCRIPTS.pdf){: target="_blank"}
 
+[![](/uploads/handled.png){: width="2006" height="114"}](https://www.mikeferry.com/main/files/40RealEstateObjectionsHandled.pdf){: target="_blank"}
+
 [![](/uploads/24-topics.PNG){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/kw+mrea+book.pdf){: target="_blank"}
 
 &nbsp;
