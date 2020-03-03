@@ -18,19 +18,16 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-![](/uploads/february-calendar-2.jpg){: width="1350" height="874"}
+![](/uploads/march-2020-kw-philly-calendar.jpg){: width="2550" height="1650"}
 {: .center}
 
 ## &nbsp;
 {: .center}
 
-### ![](/uploads/february-2020-kw-philly-calendar-1.jpg){: width="1500" height="971"}
-{: .center}
-
 ### &nbsp;
 {: .center}
 
-### [IGNITE Intensive](https://www.eventbrite.com/e/ignite-intensive-skills-to-spark-a-real-estate-career-tickets-91906168825){: target="_blank"}
+### [IGNITE Intensive](https://ignite-intensive-march.eventbrite.com){: target="_blank"}
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
@@ -39,28 +36,40 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### &nbsp;
 {: .center}
 
-### [KW Philly Team Meeting](https://february-team-meeting.eventbrite.com){: target="_blank"}
+### [KW Philly Team Meeting](https://team-meeting-march17.eventbrite.com){: target="_blank"}
 {: .center}
 
 &nbsp;
+
+### [T](https://5-objection-handlers.eventbrite.com){: target="_blank"}[ime Management & Tips To Make $250,000 Per Year With Jeremy Bowers](https://time-management-tricks.eventbrite.com){: target="_blank"}
+
+With over 16 years in the business and thousands of appointments under his belt, Jeremy Bowers' knows what it takes to run a smooth operation. Join him at KW Philly on March 10th at 11:00 AM to learn from the master himself.&nbsp;
+
+### &nbsp;
+
+### [Women's Growth Summit](https://womens-growth-summit-2020.eventbrite.com){: target="_blank"}
+
+Join us for our first annual Women's Growth Summit on March 11th, 2020 at KW Philly. Individuals from across all industries are welcome to attend this powerful and inspiring event\!
+
+### &nbsp;
+{: .center}
 
 ### [Better Boss Boot Camp w/ Linzee Cirpani](https://better-boss-boot-camp.eventbrite.com){: target="_blank"}
 {: .center}
 
 4 classes, 4 topics, 4 YOU and YOUR ADMIN\! Linzee Ciprani of Ciprani Consulting and Jeremy Bowers are hosting the Better Boss Boot Camp on a quarterly basis at KW Philly. This boot camp will cover communication skills, systems, marketing, and scalability. Add value to your business and invest in yourself with this boot camp training series\!
 
-### &nbsp;
-{: .center}
+&nbsp;
 
-### [Learn 5 Objection Handlers to Close Any Deal w/ Jeremy Bowers](https://5-objection-handlers.eventbrite.com){: target="_blank"}
+### [Group Door Knocking With Jeremy Bowers](https://door-knocking-philly.eventbrite.com){: target="_blank"}
 
-With over 16 years in the business and thousands of appointments under his belt, Jeremy Bowers' objection handling experience is undeniable. On February 27th, Jeremy will teach agents his TOP 5 objection handlers to close any deal. Remember, objection is a route to close your deals.&nbsp;
+Have you ever wanted to use door knocking as a source of lead generation, but you don't know how to get started? This is the perfect class for you\! On March 24th, Jeremy Bowers will lead a group door knocking class in South Philadelphia. Meet at 728 S Broad Street at 9:30 AM and bring your business cards\!
 
 &nbsp;
 
-### [Women's Growth Summit](https://womens-growth-summit-2020.eventbrite.com){: target="_blank"}
+### [Script Battle With Jeremy Bowers](https://re-script-battle.eventbrite.com){: target="_blank"}
 
-Join us for our first annual Women's Growth Summit on March 11th, 2020 at KW Philly. Individuals from across all industries are welcome to attend this powerful and inspiring event\!
+Join us on March 24th for a script battle featuring KW Philly's top producing agents.&nbsp;
 
 ### &nbsp;
 
