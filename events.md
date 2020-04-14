@@ -18,7 +18,7 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-![](/uploads/april-2020-kw-philly-calendar-1.jpg){: width="1500" height="971"}
+![](/uploads/.jpg){: width="1500" height="971"}
 {: .center}
 
 ## &nbsp;
