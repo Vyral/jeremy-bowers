@@ -18,7 +18,7 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-![](/uploads/april-2020-kw-philly-calendar.jpg){: width="2550" height="1650"}
+![](/uploads/april-2020-kw-philly-calendar-1.jpg){: width="1500" height="971"}
 {: .center}
 
 ## &nbsp;
@@ -27,7 +27,7 @@ permalink: /events/
 ### &nbsp;
 {: .center}
 
-### [IGNITE Intensive](https://ignite-intensive-march.eventbrite.com){: target="_blank"}
+### [IGNITE Intensive](https://ignite-april.eventbrite.com){: target="_blank"}
 {: .center}
 
 Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
@@ -36,7 +36,7 @@ Light a fire in your real estate career NOW with this action-focused, results-dr
 ### &nbsp;
 {: .center}
 
-### [KW Philly Team Meeting](https://team-meeting-march17.eventbrite.com){: target="_blank"}
+### [KW Philly Team Meeting](https://zoom.us/meeting/register/tJArduihqz4rHNJn_qFxrZJVpURItdX5leFT){: target="_blank"}
 {: .center}
 
 &nbsp;
