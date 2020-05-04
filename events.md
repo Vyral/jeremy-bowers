@@ -25,7 +25,7 @@ permalink: /events/
 ### &nbsp;
 {: .center}
 
-### [KW Philly Team Meeting](https://zoom.us/meeting/register/tJArduihqz4rHNJn_qFxrZJVpURItdX5leFT){: target="_blank"}
+### ![](/uploads/ed-weeeeeek.jpg){: width="864" height="1152"}
 {: .center}
 
 &nbsp;
