@@ -18,25 +18,6 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-&nbsp;
-
-![](/uploads/kw-philly-training-calendar---may-2020.jpg){: width="1800" height="1165"}![](/uploads/-1.jpg){: width="1500" height="971"}
-
-![](/uploads/.jpg){: width="1500" height="971"}
-{: .center}
-
-## &nbsp;
-{: .center}
-
-### &nbsp;
-{: .center}
-
-### [IGNITE Intensive](https://ignite-april.eventbrite.com){: target="_blank"}
-{: .center}
-
-Light a fire in your real estate career NOW with this action-focused, results-driven approach to lead generation, lead conversion, and contract negotiations.
-{: .center}
-
 ### &nbsp;
 {: .center}
 
