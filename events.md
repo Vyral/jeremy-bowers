@@ -18,7 +18,9 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-![](/uploads/-1.jpg){: width="1500" height="971"}
+&nbsp;
+
+![](/uploads/kw-philly-training-calendar---may-2020.jpg){: width="1800" height="1165"}![](/uploads/-1.jpg){: width="1500" height="971"}
 
 ![](/uploads/.jpg){: width="1500" height="971"}
 {: .center}
