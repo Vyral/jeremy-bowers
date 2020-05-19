@@ -7,7 +7,7 @@ permalink: /kw-results/
 ### April 2020 TOP Market Center
 {: .center}
 
-![](/uploads/use.jpg){: width="936" height="749"}
+![](/uploads/meow.jpg){: width="648" height="519"}
 
 ### &nbsp;
 {: .center}
