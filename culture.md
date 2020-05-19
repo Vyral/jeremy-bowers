@@ -33,7 +33,6 @@ permalink: /culture/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTFDzQRzENk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-
 ### Profit Share
 {: .center}
 
@@ -44,7 +43,7 @@ permalink: /culture/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hh9s6kbhOnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-![](/uploads/profit1.PNG){: width="791" height="610"}
+![](/uploads/spring-break-sale.jpg){: width="1080" height="1080"}![](/uploads/profit1.PNG){: width="791" height="610"}
 
 ---
 
@@ -53,6 +52,6 @@ permalink: /culture/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HqZHU3D0lik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<br/>
+&nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FgcW8BAXoZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgcW8BAXoZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
