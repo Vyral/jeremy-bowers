@@ -7,7 +7,7 @@ permalink: /kw-results/
 ### April 2020 TOP Market Center
 {: .center}
 
-![](/uploads/kw-pa-region-stats.jpg){: width="1350" height="1080"}
+![](/uploads/use.jpg){: width="936" height="749"}
 
 ### &nbsp;
 {: .center}
