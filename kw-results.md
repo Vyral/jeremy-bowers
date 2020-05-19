@@ -31,9 +31,9 @@ permalink: /kw-results/
 ### KW Philly Stats
 {: .center}
 
-![](/uploads/total-volume.jpg){: width="1647" height="1275"}
+![](/uploads/6.jpg){: width="900" height="697"}
 
-![](/uploads/total-volume2.jpg){: width="1647" height="1275"}
+![](/uploads/7.jpg){: width="864" height="669"}
 
 ---
 
