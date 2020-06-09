@@ -20,17 +20,7 @@ permalink: /events/
 
 &nbsp;
 
-![](/uploads/kw-philly-training-calendar---may-2020-4.jpg){: width="900" height="582"}
-
-### &nbsp;
-{: .center}
-
-### ![](/uploads/ed-weeeeeek.jpg){: width="864" height="1152"}
-{: .center}
-
-&nbsp;
-
-### &nbsp;
+![](/uploads/june-2020-kw-philly-calendar.jpg){: width="1500" height="971"}
 
 ### Regional Events
 {: .center}
