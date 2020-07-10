@@ -29,41 +29,53 @@
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	       <div class="row">
-    	        <div class="col-sm-3">
+	           <div class="col-sm-4">
+    	          <img src="https://app.cloudcannon.com/sites/67900/site_files/raw/?path=img/KWPhilly.jpg" height="100px">
+    	        </div>
+    	        <div class="col-sm-4">
     	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
     						<br>{{site.data.settings.client.title}}
     						{% if site.data.settings.client.license_number != null %}
     						<br><span>{{site.data.settings.client.license_number }}
     					{% endif %}
     	        </div>
-    	         <div class="col-sm-3">
-    	          <img src="https://app.cloudcannon.com/sites/67900/site_files/raw/?path=img/KWPhilly.jpg" height="100px">
+    	         
+    	        <div class="col-sm-4">
+    	          <address itemprop="address">{{site.data.settings.client.address}}</address>
     	        </div>
-    	        <div class="col-sm-3">
-    	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
+	        </div>
+	        <br/>
+	         <div class="row">
+	               <div class="col-sm-4">
+    	            <img src="https://app.cloudcannon.com/sites/67900/site_files/raw/?path=img/KWmain.png" alt="" class="client-image" style="margin-top:-75px;">
     	        </div>
-    	        <div class="col-sm-3">
-    	          <address itemprop="address">
+    	        <div class="col-sm-4">
+    	         
+    	           <span itemprop="brand">{{site.data.settings.client.brand}}</span>
+    	        </div>
+    	       
+    	        <div class="col-sm-4">
+    	         <address itemprop="address">
     	              2401 Walnut Street, Floor 6<br/>
                         Philadelphia, PA 19103<br/>
                         o. 215-607-6007<br/>
                         c. 484-243-0971<br/>
                 </address>
     	        </div>
+    	        <div class="col-sm-3">
+    	         
+    	        </div>
 	        </div>
 	        <br/>
 	         <div class="row">
-    	        <div class="col-sm-3">
-    	          <address itemprop="address">{{site.data.settings.client.address}}</address>
+	               <div class="col-sm-4">
     	        </div>
-    	         <div class="col-sm-3">
-    	            <img src="https://app.cloudcannon.com/sites/67900/site_files/raw/?path=img/KWmain.png" alt="" class="client-image" style="margin-top:-75px;">
-    	        </div>
-    	        <div class="col-sm-3">
+    	        <div class="col-sm-4">
     	          <span itemprop="brand">KW Main Line</span>
     	        </div>
-    	        <div class="col-sm-3">
-    	          <address itemprop="address">
+    	       
+    	        <div class="col-sm-4">
+    	           <address itemprop="address">
     	                720 W Lancaster Avenue<br/>
                         Bryn Mawr, PA 19010<br/>
                         o. 610-520-0100<br/>
