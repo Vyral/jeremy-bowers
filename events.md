@@ -20,7 +20,7 @@ permalink: /events/
 
 &nbsp;
 
-![](/uploads/june-2020-kw-philly-calendar-2.jpg){: width="750" height="486"}
+![](/uploads/july2020kwcalc.jpg){: width="2550" height="1650"}
 
 ### Regional Events
 {: .center}
