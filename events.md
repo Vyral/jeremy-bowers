@@ -20,7 +20,7 @@ permalink: /events/
 
 &nbsp;
 
-![](/uploads/july2020kwcalc.jpg){: width="2550" height="1650"}
+![](/uploads/july2020kwcalc.jpg){: width="700" height="450" }
 
 ### Regional Events
 {: .center}
