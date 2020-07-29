@@ -28,7 +28,9 @@ permalink: /freebies/
 
 ![](/uploads/20228524-10212583724444685-415251575519202972-n.jpg){: .post-image}
 
-# <u>KW Philly Concierge</u>
+<a href="https://drive.google.com/file/d/1hf3rWIxSdG3tDLi5jbODX74VXvZupiBq/view?usp=sharing" target="blank">KW Philly Concierge: Accounting with Jarel Daniels</a>
+
+<a href="https://drive.google.com/file/d/15I164aJonRRceYH8k9ZNJay5e_Q7ydHL/view?usp=sharing" target="blank">KW Philly Concierge: Listing Coordination</a>
 
 [![](/uploads/accounting.png){: width="1545" height="2000"}](mailto:accountant@phillykw.com?subject=Tell%20Me%20More%20About%20The%20KW%20Philly%20Accounting%20Concierge&amp;body=Hi%2C%0A%0AJeremy%20Bowers%20told%20me%20about%20the%20services%20you%20offer.%20Let's%20talk%20about%20how%20you%20can%20help%20me%20with%20my%20business!)
 
