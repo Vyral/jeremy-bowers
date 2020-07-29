@@ -21,9 +21,6 @@ permalink: /kw-results/
 
 ---
 
-
----
-
 ### KW Philly Stats
 {: .center}
 
