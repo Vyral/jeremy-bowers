@@ -8,6 +8,8 @@ permalink: /technology/
 
 &nbsp;
 
+<a href="https://www.youtube.com/playlist?list=PLNRWBy-RIQ7WVPbNLOxFiiNR2uua9ULHm" target="blank">Tech Training with Regional Tech Driver, Dawn Ochs</a>
+
 [![](/uploads/capture-3.PNG){: width="749" height="133"}](https://technology.kw.com/command/explore-command/){: target="_blank"}
 
 [![](/uploads/consumer-app.png){: width="555" height="214"}](https://technology.kw.com/consumer-experience/){: target="_blank"}
