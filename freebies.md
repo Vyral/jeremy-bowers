@@ -12,7 +12,7 @@ permalink: /freebies/
 
 [![](/uploads/jeremy-bowers-blog.png){: width="582" height="396"}](https://vyralmarketing.s3.amazonaws.com/Jeremy+Bowers/Marketing+Packet.pdf){: target="_blank"}
 
-[![](/uploads/handled.png){: width="582" height="114"}](https://www.mikeferry.com/main/files/40RealEstateObjectionsHandled.pdf){: target="_blank"}
+[![](/uploads/handled.png){: width="720" height="114"}](https://www.mikeferry.com/main/files/40RealEstateObjectionsHandled.pdf){: target="_blank"}
 
 [![](/uploads/24-topics.PNG){: .post-image}](https://s3.amazonaws.com/vyralmarketing/Jeremy+Bowers/kw+mrea+book.pdf){: target="_blank"}
 
