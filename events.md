@@ -20,7 +20,7 @@ permalink: /events/
 
 &nbsp;
 
-![](/uploads/august-2020-calendar.jpg){: width="100%" height="1650"}
+![](/uploads/September-2020.jpg){: width="100%" height="1650"}
 
 ### Regional Events
 {: .center}
