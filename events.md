@@ -20,7 +20,7 @@ permalink: /events/
 
 &nbsp;
 
-![](/uploads/September-2020.jpg){: width="100%" height="1650"}
+![](/uploads/September-2020.jpg){: width="100%" height="650"}
 
 ### Regional Events
 {: .center}
