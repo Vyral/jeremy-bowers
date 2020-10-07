@@ -18,9 +18,7 @@ permalink: /events/
 ## [Click here to access all of our upcoming events\!](https://www.eventbrite.com/o/kw-philly-18045594071){: target="_blank"}
 {: .center}
 
-&nbsp;
-
-![](/uploads/September-2020.jpg){: width="100%" height="650"}
+<br>![](/uploads/october-training-calendar.png){: width="1280" height="720"}
 
 ### Regional Events
 {: .center}
