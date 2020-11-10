@@ -20,7 +20,7 @@ permalink: /events/
 
 &nbsp;
 
-![](/uploads/october-training-calendar.png){: width="1280" height="720"}
+![](/uploads/november-2020-calendar.jpg){: width="1920" height="1080"}
 
 ### Regional Events
 {: .center}
