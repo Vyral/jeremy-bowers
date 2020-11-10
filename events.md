@@ -20,7 +20,7 @@ permalink: /events/
 
 &nbsp;
 
-![](/uploads/november-2020-calendar-1.jpg){: width="1248" height="702"}
+![](/uploads/november-2020-calendar-2.jpg){: width="768" height="432"}
 
 ### Regional Events
 {: .center}
